@@ -1,5 +1,5 @@
 # TFG-NBA
-This is the repository for my Bacherlo´s Degree Final Project in Computer Science Engineering.
+This is the repository for my Bacherlor´s Degree Final Project in Computer Science Engineering.
 The title is:
 Similarity Analysis to aid decision making on NBA Draft
 
